@@ -6,10 +6,12 @@ It is a one page HTML site created by benka.
 
 ## Install
 Check-out this repository and run:
+
 `npm install`
 
 ## Development
 To start development run:
+
 `gulp dev`
 
 ## Creator
